@@ -1,0 +1,12 @@
+C:/Users/vp5go/RiderProjects/SHIZAAAAAA/ConsoleApplication5/obj/Debug/ConsoleApplication5.csprojAssemblyReference.cache
+C:/Users/vp5go/RiderProjects/SHIZAAAAAA/ConsoleApplication5/obj/Debug/ConsoleApplication5.csproj.CoreCompileInputs.cache
+C:/Users/vp5go/RiderProjects/SHIZAAAAAA/ConsoleApplication5/bin/Debug/ConsoleApplication5.exe
+C:/Users/vp5go/RiderProjects/SHIZAAAAAA/ConsoleApplication5/bin/Debug/ConsoleApplication5.pdb
+C:/Users/vp5go/RiderProjects/SHIZAAAAAA/ConsoleApplication5/obj/Debug/ConsoleApplication5.exe
+C:/Users/vp5go/RiderProjects/SHIZAAAAAA/ConsoleApplication5/obj/Debug/ConsoleApplication5.pdb
+/home/hikoboshi/Документы/SHIZAAAAAA/ConsoleApplication5/bin/Debug/ConsoleApplication5.exe
+/home/hikoboshi/Документы/SHIZAAAAAA/ConsoleApplication5/bin/Debug/ConsoleApplication5.pdb
+/home/hikoboshi/Документы/SHIZAAAAAA/ConsoleApplication5/obj/Debug/ConsoleApplication5.csproj.CoreCompileInputs.cache
+/home/hikoboshi/Документы/SHIZAAAAAA/ConsoleApplication5/obj/Debug/ConsoleApplication5.exe
+/home/hikoboshi/Документы/SHIZAAAAAA/ConsoleApplication5/obj/Debug/ConsoleApplication5.pdb
+/home/hikoboshi/Документы/SHIZAAAAAA/ConsoleApplication5/obj/Debug/ConsoleApplication5.csprojAssemblyReference.cache

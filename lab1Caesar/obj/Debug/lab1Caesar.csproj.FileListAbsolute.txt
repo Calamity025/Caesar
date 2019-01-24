@@ -1,0 +1,6 @@
+/home/hikoboshi/Документы/SHIZAAAAAA/lab1Caesar/bin/Debug/lab1Caesar.exe
+/home/hikoboshi/Документы/SHIZAAAAAA/lab1Caesar/bin/Debug/lab1Caesar.pdb
+/home/hikoboshi/Документы/SHIZAAAAAA/lab1Caesar/obj/Debug/lab1Caesar.csprojAssemblyReference.cache
+/home/hikoboshi/Документы/SHIZAAAAAA/lab1Caesar/obj/Debug/lab1Caesar.csproj.CoreCompileInputs.cache
+/home/hikoboshi/Документы/SHIZAAAAAA/lab1Caesar/obj/Debug/lab1Caesar.exe
+/home/hikoboshi/Документы/SHIZAAAAAA/lab1Caesar/obj/Debug/lab1Caesar.pdb
