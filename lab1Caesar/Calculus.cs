@@ -31,7 +31,7 @@ namespace ConsoleApplication5 {
 			for (int i = 0; i < text.Length; i++) {
 				bool isCharEn = false;
 				for (int j = 0; j < alphEng.Length; j++) {
-					if (text[i] == alphUkr[j] || text[i] == ' ' || text[i] == '\r' || text[i] == '\n' || text[i] == '.' || text[i] == ',') {
+					if (text[i] == alphEng[j] || text[i] == ' ' || text[i] == '\r' || text[i] == '\n' || text[i] == '.' || text[i] == ',') {
 						isCharEn = true;
 					}
 				}

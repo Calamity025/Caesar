@@ -38,6 +38,7 @@ namespace ConsoleApplication5 {
             Shift.Location = new Point(85, 140);
             Shift.Value = 14;
             Shift.Width = 50;
+            Shift.Maximum = 2000;
             Controls.Add(Shift);
       
             Button encryptButton = new Button();
